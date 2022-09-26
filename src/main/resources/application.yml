@@ -20,6 +20,6 @@ spring:
 elk:
     enable: true
     logstash:
-        server: 10.160.10.51
-        port: 5000
+        server: logstash-logstash
+        port: 5044
 
